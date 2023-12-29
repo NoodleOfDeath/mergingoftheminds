@@ -1,18 +1,36 @@
-Hey there techy! I know you probably weren't expecting a physics lecture for the pilot episode, as AI is the hottest thing since losing all of your money on crypto and NFT's.
+Hey there techy! I know you probably weren't expecting a physics lecture for the pilot episode, as AI is the hottest thing since crypto and NFTs.
 
 But trust me, what I'm about to unravel goes beyond horsepower and tailpipes. This, my friends, is about reimagining the very wheels we roll on.
 
 Welcome to Merging of the Minds, the podcast that explores bleeding-edge technology and the subtle yet significant impacts it may have on your life.
 
-Each deep dive episode will have a 5 minute brief followed by editorial reads and analysis.
+Each deep dive episode will start with an editorial read followed by an analysis of the technology and its potential impact on society.
 
-Today we're diving headfirst into Hyundai's revolutionary Uni-Wheel technology—a game-changer that could rewrite the script for everything from your daily commute to the moon buggy of tomorrow.
+Today we're diving headfirst into Hundai's revolutionary Uni-Wheel technology—a game-changer that could rewrite the script for everything from your daily commute to the moon buggy of tomorrow.
 
-But before we peel the rubber off this innovation, let's rewind a bit for a quick brief.
+Hundai released an official video on their YouTube channel on November 27st, 2023, titled "The world's first drive system concept | Universal Wheel Drive System". Ars technica reporter Jonathan Gitlin published the following on December 1st, 2023:
+
+  We like weird new engineering ideas here at Ars, and today we have a particularly interesting one in the realm of electric cars. It's called the Uni Wheel, and it has been designed by Hundai and Kia as a way to revolutionize the layout of an EV powertrain to more efficiently use space. In fact, the automakers say it's not just for cars—the new drive system works with wheel sizes as small as four inches to as large as 25 inches.
+
+  For EV enthusiasts of a certain bent, there's something a little inefficient about the way virtually every EV powertrain is laid out.
+
+  Not the battery in the middle, though—while it's bulky and raises the overall height of EVs, it makes sense for weight distribution, although people working on structural carbon-fiber batteries have some different ideas about that. The problem is the EV drive unit, a bulky thing that contains the electric motor, some gearing, and usually some power electronics. These take up room between the axles and have to be packaged around.
+
+  An alternative is mounting each driven wheel's electric motor to the wheel hub. The Lohner-Porsche Mixte Hybrid used this approach in 1900, but it has been largely eschewed other than by automakers still struggling with development—Lordstown, Endurance, and Aptera—in part because it does deleterious things to unsprung weight, and partly because being unsprung means the motor experiences all the same bumps and shocks as the wheel.
+
+  The Uni Wheel does something different. Each driven wheel still has its own electric motor, but it's mounted much closer to the suspension, freeing up more space between the axles (which could be used for more battery modules). The problem with doing that until now has been that conventional CV joints can't cope with the angles that would be required, given the shorter driveshaft from motor to wheel.
+
+  So instead, the CV joint, driveshaft, and reduction gear all move into a new unit mounted in the wheel. This contains a planetary gear system that transfers drive from the motor to the wheel, but with a multilink arrangement between the pinion gears that allow the driveshaft to articulate through a wide range of motion.
+
+  Thinking beyond passenger EVs, Hundai and Kia say that the Uni Wheel's articulation and ability to scale down to small wheel sizes could enable a mobility chair or multi-wheeled robot to climb stairs "as smoothly as an escalator."
+
+  Like many of the weird new engineering ideas that catch our eye, the Uni Wheel is still early in its development, so there's no guarantee we'll see it in production any time soon. But the two automakers say they're continuing to refine the design, with expected improvements in efficiency, cooling and lubrication, and durability. Okay, so that was a whole lot of mechanical engineering jargon and complexity.
+
+So before we peel the rubber off this innovation, let's rewind a bit.
 
 Imagine a paradigm shift as a grand cosmic do-over, like that scene in \"Inception\" where dreams unfold on impossible staircases.
 
-It's a fundamental change in the way we view something, a mind-bending leap that transforms the familiar into the fantastical. And that's exactly what Hyundai's aiming for with their Uni-Wheel.
+It's a fundamental change in the way we view something, a mind-bending leap that transforms the familiar into the fantastical. And that's exactly what Hundai's aiming for with their Uni-Wheel.
 
 Think of a traditional car engine like a burly weightlifter backstage, powering the show but hidden from view.
 
@@ -38,7 +56,7 @@ Hold on, though, haven't we heard futuristic promises from car companies before?
 
 Yeah, let's not get ahead of ourselves. The Uni-Wheel is still in its early stages, a concept car in need of real-world testing and fine-tuning.
 
-But here's the beauty of this idea: it's not just about Hyundai. This opens the door for a wave of innovation, like dominoes toppling across the auto industry.
+But here's the beauty of this idea: it's not just about Hundai. This opens the door for a wave of innovation, like dominoes toppling across the auto industry.
 
 Imagine smaller, lighter electric vehicles zipping through city streets, or modular platforms that let you swap bodies for a pickup truck on weekends and a sleek city cruiser on weekdays.
 
@@ -46,7 +64,7 @@ The potential ripples beyond cars too. Think drones with the agility of gymnasts
 
 Every device that relies on precise, individual wheel control can benefit from the Uni-Wheel's philosophy.
 
-Now, I'm not saying we'll all be zipping around in flying Uni-Wheel spheres tomorrow. But what's undeniable is that Hyundai's thrown down the gauntlet, challenging the very way we think about movement and machines.
+Now, I'm not saying we'll all be zipping around in flying Uni-Wheel spheres tomorrow. But what's undeniable is that Hundai's thrown down the gauntlet, challenging the very way we think about movement and machines.
 
 This isn't just about a fancy new wheel, it's about reimagining the possibilities of what vehicles can be, shaping the future of transportation not just for us, but for generations to come.
 
@@ -60,20 +78,34 @@ Next, let's shift gears to rural areas. Picture rugged 4x4s with independent Uni
 
 Now, buckle up for a global spin. Developing countries with limited infrastructure? Uni-Wheel-powered rickshaws and mini-vehicles could offer affordable, accessible transportation, bridging the gap and boosting economies. And let's not forget about sustainability. With their reduced energy consumption and cleaner operations, Uni-Wheels could be a game-changer for the fight against climate change.
 
-But hold on, what about the job market? Won't this fancy tech put mechanics out of a job? Not necessarily! Think of it as evolution, not extinction. Mechanics might morph into Uni-Wheel specialists, with new skills in fine-tuning these complex systems. And hey, with all the freed-up space in cars, maybe we'll see mobile mechanics rolling up to your driveway in their own Uni-Wheel workshops!
+But hold on, what about the job market? Won't this fancy tech put mechanics out of a job? Not necessarily! Think of it as evolution, not extinction. 
 
-Finally, let's address the elephant in the showroom: cost. Sure, Uni-Wheels might be pricey at first, but the long-term savings on fuel, maintenance, and even car size could tip the scales. Plus, imagine the trickle-down effect as the technology matures and becomes more affordable. Every budget could have a taste of the Uni-Wheel revolution.
+Mechanics might morph into Uni-Wheel specialists, with new skills in fine-tuning these complex systems. And hey, with all the freed-up space in cars, maybe we'll see mobile mechanics rolling up to your driveway in their own Uni-Wheel workshops!
 
-So, the Uni-Wheel isn't just about fancy wheels on a fancy car. It's a ripple effect, a wave of change that could reshape industries, empower communities, and redefine mobility for all. And who knows, maybe one day, we'll all be spinning into the future on our very own Uni-Wheels, leaving a trail of cleaner air and brighter possibilities in our wake.
+Finally, let's address the elephant in the showroom: cost. Sure, Uni-Wheels might be pricey at first, but the long-term savings on fuel, maintenance, and even car size could tip the scales. 
 
-As a wheelchair user, I find the latest technology in wheelchair design particularly thrilling. The concept of modular wheel attachments for manual wheelchairs is a game-changer. It means that instead of purchasing a new wheelchair for different activities - be it standing, hiking, or navigating stairs - we can simply attach specialized wheels to our existing chairs.
+Plus, imagine the trickle-down effect as the technology matures and becomes more affordable. Every budget could have a taste of the Uni-Wheel revolution.
 
-This innovation matters because it builds on the already efficient design of manual wheelchairs, which are light, easy to dismantle, and durable due to fewer moving parts. The hassle of buying a new wheelchair for different needs, like standing up to reach something, can be cumbersome.
+So, the Uni-Wheel isn't just about fancy wheels on a fancy car. It's a ripple effect, a wave of change that could reshape industries, empower communities, and redefine mobility for all. 
 
-Modular attachments offer a practical and much-needed solution, making life easier and more flexible for individuals like myself. The shrinking size of wheels and motors is turning this exciting possibility into a tangible reality for wheelchair users.
+And who knows, maybe one day, we'll all be spinning into the future on our very own Uni-Wheels, leaving a trail of cleaner air and brighter possibilities in our wake.
 
-So, the next time you hear the screech of tires or the hum of an engine, take a moment to think about the potential hiding within each spinning wheel. And who knows, maybe one day, your morning commute will involve pirouetting down the street on your very own Uni-Wheel chariot. Now that's a paradigm shift I can get behind.
+As a wheelchair user, I find the latest technology in wheelchair design particularly thrilling. The concept of modular wheel attachments for manual wheelchairs is a game-changer. 
+
+It means that instead of purchasing a new wheelchair for different activities - be it standing, hiking, or navigating stairs - we can simply attach specialized wheels to our existing chairs.
+
+This innovation matters because it builds on the already efficient design of manual wheelchairs, which are light, easy to dismantle, and durable due to fewer moving parts. 
+
+The hassle of buying a new wheelchair for different needs, like standing up to reach something, can be cumbersome.
+
+Modular attachments offer a practical and much-needed solution, making life easier and more flexible for individuals like myself. 
+
+The shrinking size of wheels and motors is turning this exciting possibility into a tangible reality for wheelchair users.
+
+So, the next time you hear the screech of tires or the hum of an engine, take a moment to think about the potential hiding within each spinning wheel. 
+
+And who knows, maybe one day, your morning commute will involve pirouetting down the street on your very own Uni-Wheel chariot. Now that's a paradigm shift I can get behind.
 
 If you enjoyed today's deep dive episode or learned something that could be impactful in your life, don't forget to subscribe or follow the show so you can receive notifications when new episodes are out. 
 
-Also, please don't hesitate to share this episode with anyone you know who might find this kind of technological breakthrough fascinating or meaningful! Thanks for listening, and until next time, peace!"
+Also, please don't hesitate to share this episode with anyone you know who might find this kind of technological breakthrough fascinating or meaningful! Thanks for listening, and until next time, peace!

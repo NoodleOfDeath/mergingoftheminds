@@ -10,9 +10,9 @@ import { v4 } from 'uuid';
 
 const parser = new ArgumentParser();
 parser.add_argument('file');
-parser.add_argument('-s', '--stability', { default: 1.0 });
-parser.add_argument('-b', '--similarityBoost', { default: 0.5 });
-parser.add_argument('-t', '--style', { default: 0.3 });
+parser.add_argument('-s', '--stability', { default: 0.5 });
+parser.add_argument('-b', '--similarityBoost', { default: 0.75 });
+parser.add_argument('-t', '--style', { default: 0.75 });
 parser.add_argument('-o', '--outputName', { default: 'final.wav' });
 parser.add_argument('--projectRoot', { default: p.resolve('./out') });
 parser.add_argument('--projectPath', { default: undefined });
@@ -71,10 +71,9 @@ export async function generateAndMerge(text: string | string[], {
   }
 
   const sentences = (Array.isArray(text) ? text : text.split(/[.?!]|\\Z/)).map(s => s.trim()).filter(s => s.length > 0);
-  const filenames = sentences.map((_, i) => p.join(projectPath, `sentence-${i}.mp3`));
+  const filenames = sentences.map((sentence, i) => p.join(projectPath, `${`${i}`.padStart(3, '0')} - ${sentence.substring(0, Math.min(sentence.length, 50))}.wav`));
   const regex = new RegExp(Array.isArray(pattern) ? pattern.join('|') : pattern, 'i');
   const matches = sentences.map((text, i) => regex.test(text) ? i : null).filter((i) => i !== null);
-  const missing = sentences.map((_, i) => !fs.existsSync(filenames[i]) ? i : null).filter((i) => i !== null);
   indexes = Array.from(new Set(matches.length > 0 ? [...matches, ...(indexes ?? [])] : (indexes || sentences.map((_, i) => i))));
 
   for (const i of indexes) {
@@ -94,7 +93,7 @@ export async function generateAndMerge(text: string | string[], {
   };
 
   const editor = new AudioEditingService();
-  await editor.merge({ outputPath: p.join(projectPath, outputName) }, ...filenames.filter((_, i) => !missing.includes(i)));
+  await editor.merge({ outputPath: p.join(projectPath, outputName) }, ...filenames);
 
 }
 
