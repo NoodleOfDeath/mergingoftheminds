@@ -11,9 +11,9 @@ import { v4 } from 'uuid';
 
 const parser = new ArgumentParser();
 parser.add_argument('file');
-parser.add_argument('-s', '--stability', { default: 0.5 });
+parser.add_argument('-s', '--stability', { default: 0.75 });
 parser.add_argument('-b', '--similarityBoost', { default: 0.75 });
-parser.add_argument('-t', '--style', { default: 0.75 });
+parser.add_argument('-t', '--style', { default: 1.0 });
 parser.add_argument('-o', '--outputName', { default: 'final.wav' });
 parser.add_argument('--projectRoot', { default: p.resolve('./out') });
 parser.add_argument('--projectPath', { default: undefined });
