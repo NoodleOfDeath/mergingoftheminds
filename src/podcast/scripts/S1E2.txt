@@ -42,7 +42,7 @@ On January 2nd, 2023, William Hunter of the Dailymail writes:
   
   This means that biofuels contribute a smaller amount of net carbon emissions.
    
-  quote-Of course energy would be used (in production), but when looking at the fuel's life cycle, a 90% saving is mind-blowing,-end quote Mr Hygate told the BBC.
+  quote- Of course energy would be used (in production), but when looking at the fuel's life cycle, a 90% saving is mind-blowing,-end quote, Mr Hygate told the BBC.
   
   Poo, unlike the grains and plant oils used for other biofuels, is naturally abundant and is the one form of waste humans cannot stop producing. 
   
@@ -52,11 +52,11 @@ On January 2nd, 2023, William Hunter of the Dailymail writes:
    
   Mr Hygate told MailOnline that processing sewage into fuel is a good alternative to other disposal methods.
   
-  quote-Human waste is handled differently in different parts of the world, but no matter where it occurs it is a problematic and polluting waste with very few disposal routes,-end quote says Mr Hygate.
+  quote- Human waste is handled differently in different parts of the world, but no matter where it occurs it is a problematic and polluting waste with very few disposal routes,-end quote, says Mr Hygate.
   
-  quote-By using it as a feedstock to create SAF [sustainable aviation fuel] we're helping to clean up at both ends of the process.
+  quote- By using it as a feedstock to create SAF [sustainable aviation fuel] we're helping to clean up at both ends of the process.
   
-  Lack of feedstock availability is a pressure keenly felt throughout the sustainable fuels industry, but sewage is a waste material that will realistically never run out.-end quote
+  Lack of feedstock availability is a pressure keenly felt throughout the sustainable fuels industry, but sewage is a waste material that will realistically never run out.-end quote.
   
   Firefly estimates that each person produces enough sewage each year to produce between four and five litres of jet fuel.
   
@@ -66,13 +66,13 @@ On January 2nd, 2023, William Hunter of the Dailymail writes:
   
   That might not seem like a huge amount, but Mr Hygate remains optimistic.
   
-  quote-That's pretty exciting. There's a 10 per cent sustainable aviation fuel requirement, that's a legal mandate. And we could meet half of that with poo,-end quote he said. 
+  quote- That's pretty exciting. There's a 10 per cent sustainable aviation fuel requirement, that's a legal mandate. And we could meet half of that with poo,-end quote he said. 
   
   However, Firefly Green Fuels says it has been in conversations with officials in Mumbai who believe they could power 80 per cent of flights from their international airport using jet fuel from sewage. 
   
   Mr Hygate told MailOnline they could not provide a definitive price for the new fuel but says that 'current indications are that the cost of our fuel should be competitive with other routes to SAF.
   
-  quote-What nobody wants to see is the transition to SAF leading to a huge cost impact on passengers. Thankfully we don't foresee this happening as robust incentives and supports are in place.-end quote
+  quote- What nobody wants to see is the transition to SAF leading to a huge cost impact on passengers. Thankfully we don't foresee this happening as robust incentives and supports are in place.-end quote.
   
   As countries and corporations alike look to reduce their carbon footprint, aviation has remained stubbornly difficult to clean up. 
   
@@ -110,7 +110,7 @@ Fractal distillation is a special way of separating different things mixed toget
 
 One distilled, tests show that the bio-kerosene created by Firefly Green Fuels has a near-identical composition to A1 fossil jet fuel.
 
-I imagine this means existing aircrafts would not need to be modified too signficantly to use the biofuel, but something in the math of this article seemed a bit off. 
+I imagine this means existing aircrafts would not need to be modified too significantly to use the biofuel, but something in the math of this article seemed a bit off. 
 
 If a Boeing 757 uses 150,000 liters, basically 150 tons, of fossil fuel for a ten hour flight, then it is rather impressive the same aircraft only took 70 tons of biofuel to fly from London to New York, an 8 hour 15 minute flight, as reported by Virgin Atlantic.
 
@@ -120,13 +120,13 @@ And if the CO2 emissions of burning Firefly biofuel really are 92% less compared
 
 Well breaking the status quo in major commercial operations not only takes time but has to be practical and affordable.
 
-A breakthroughs like this probably could not have happened until concerns about climate change were taken seriously enough by governments to fund them.
+A breakthrough like this probably could not have happened until concerns about climate change were taken seriously enough by governments to fund them.
 
-Then it takes years of research to discover new ways to produce biofuels, let alone a biofuel that is both highly renewable, cheap, and practical for commericial adoption.
+Then it takes years of research to discover new ways to produce biofuels, let alone a biofuel that is both highly renewable, cheap, and practical for commercial adoption.
 
 Assuming the cost to produce Firefly's biofuel can be driven down, I do forsee a near future where we will slowly transition to aircrafts powered by a hybrid of fossil and biofuel.
 
-Even if some environment conscious investors take on the risk, it would take years to commericialze and require partnerships with specific airlines aiming to make their brand the green pioneer.
+Even if some environment conscious investors take on the risk, it would take years to commercialze and require partnerships with specific airlines aiming to make their brand the green pioneer.
 
 As for electric, the sheer weight of batteries and their potential to overheat or explode are major reasons for why electric aircrafts may not actually be a feasible competitor to biofuels until the next paradigm shift in batteries.
 
