@@ -1,12 +1,12 @@
 Welcome to Merging of the Minds, the podcast that explores bleeding-edge technology and the subtle yet significant impacts it may have on your life.
 
-Each deep dive episode will start with an editorial read followed by an analysis of the technology and its potential impact on society.
+Each deep dive episode will start with an editorial read followed by my own analysis and an exploration of how the technology may slowly but surely find its way into our lives.
 
 Today, we're going to be talking about a new way to make jet fuel: from human waste.
 
-That's right, you heard me correctly. Poop could soon be powering planes.
+That's right, you heard me correctly. Waste could soon be powering planes.
 
-I know what you're thinking: gross! But hear me out.
+I know what you're probably thinking. That's pretty gross! But- hear me out.
 
 This new technology could actually help us reduce our carbon footprint without having to go nuclear and make flying more sustainable.
 
@@ -89,5 +89,55 @@ On January 2nd, 2023, William Hunter of the Dailymail writes:
   There are also attempts to replace fossil fuels entirely by moving towards electric planes. 
   
   In 2022, the world's first electric passenger plane reached 3,500 ft for the first time.
+  
+  Eviation Aircraft, who produced the nine-seat plane, say it is set  to carry regional commuters and cargo.  
 
-Okay, so let's unpack this a bit...
+Okay, so let's unpack this a bit.
+
+So, Firefly Green Fuels has developed a process called hydrothermal liquefaction that converts sewage into bio-crude, a substance chemically similar to fossil jet fuel.
+
+This bio-crude is then refined into bio-kerosene using a process called fractional distillation.
+
+Imagine you are making sandcastles on the beach.
+
+You take a big bucket of sand and build a tall tower with turrets and moats.
+
+But what if your sandcastle could keep going, smaller and smaller, with even tinier turrets and moats, all the way down to the tiniest grain of sand?
+
+That's kind of like fractal distillation.
+
+Fractal distillation is a special way of separating different things mixed together, a bit like how you might sift sand and pebbles to get them apart.
+
+One distilled, tests show that the bio-kerosene created by Firefly Green Fuels has a near-identical composition to A1 fossil jet fuel.
+
+I imagine this means existing aircrafts would not need to be modified too signficantly to use the biofuel, but something in the math of this article seemed a bit off. 
+
+If a Boeing 757 uses 150,000 liters, basically 150 tons, of fossil fuel for a ten hour flight, then it is rather impressive the same aircraft only took 70 tons of biofuel to fly from London to New York, an 8 hour 15 minute flight, as reported by Virgin Atlantic.
+
+That is quite nearly twice the fuel efficiency of biofuels than fossil fuels.
+
+And if the CO2 emissions of burning Firefly biofuel really are 92% less compared to conventional fuel and completely renewable, why are we not using biofuels to power everything?
+
+Well breaking the status quo in major commercial operations not only takes time but has to be practical and affordable.
+
+A breakthroughs like this probably could not have happened until concerns about climate change were taken seriously enough by governments to fund them.
+
+Then it takes years of research to discover new ways to produce biofuels, let alone a biofuel that is both highly renewable, cheap, and practical for commericial adoption.
+
+Assuming the cost to produce Firefly's biofuel can be driven down, I do forsee a near future where we will slowly transition to aircrafts powered by a hybrid of fossil and biofuel.
+
+Even if some environment conscious investors take on the risk, it would take years to commericialze and require partnerships with specific airlines aiming to make their brand the green pioneer.
+
+As for electric, the sheer weight of batteries and their potential to overheat or explode are major reasons for why electric aircrafts may not actually be a feasible competitor to biofuels until the next paradigm shift in batteries.
+
+So if you are very energy self-aware, you may soon be able to fly completely at ease, knowing that you are not contributing to the problem of climate change.
+
+It is also worth noting, in case you were worried, that although manure has a less than pleasant smell to most, the burning of biofuels made from waste often have an oddly sweet and woody aroma due to its organic composition.
+
+I am your host Tom, and that's all for today's episode on fuel made from waste. 
+
+Make sure to leave us a like if you enjoyed listening and you can follow or subscribe to get notifications when new episodes come out.
+
+Know anyone who might find this interesting or wild, don't hesitate to share the knowledge.
+
+We hope you learned something new today, and until next time, peace.
