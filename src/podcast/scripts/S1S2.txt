@@ -1,0 +1,93 @@
+Welcome to Merging of the Minds, the podcast that explores bleeding-edge technology and the subtle yet significant impacts it may have on your life.
+
+Each deep dive episode will start with an editorial read followed by an analysis of the technology and its potential impact on society.
+
+Today, we're going to be talking about a new way to make jet fuel: from human waste.
+
+That's right, you heard me correctly. Poop could soon be powering planes.
+
+I know what you're thinking: gross! But hear me out.
+
+This new technology could actually help us reduce our carbon footprint without having to go nuclear and make flying more sustainable.
+
+On January 2nd, 2023, William Hunter of the Dailymail writes:
+
+  It might sound dirty, but poo could soon make travelling by plane a lot cleaner.
+
+  Researchers have found a way to convert human waste into usable jet fuel. 
+  
+  Gloucestershire-based Firefly Green Fuels says that its biofuel is chemically identical to jet fuel, but produces 92 per cent less carbon dioxide (CO2).
+   
+  And, with flying making up two per cent of global CO2 production, this may help cut out some big sources of pollution. 
+  
+  James Hygate, Firefly Green Fuels CEO, said: quote-We wanted to find a really low-value feedstock that was highly abundant. And of course poo is abundant.-end quote.
+  
+  To produce usable fuel from human waste, Firefly uses a method called hydrothermal liquefaction.
+  
+  This uses a combination of high pressure and heat to convert the final processed form of sewage called 'biosolids' into carbon-rich biochar and crude oil.
+  
+  This 'bio-crude' looks a lot like oil and even behaves chemically in the same way, meaning the scientists can extract kerosene from the fuel using fractional distillation.
+   
+  This involves evaporating the oil and collecting the fraction that condenses at a certain temperature. 
+  
+  Initial tests of the kerosene extracted show that it has a near-identical chemical composition to A1 fossil jet fuel. 
+  
+  The bio-kerosene is currently undergoing tests at the DLR Institute of Combustion Technology at the German Aerospace Center.
+  
+  The fuel will also be tested by the UK SAF (Sustainable Aviation Fuels) clearing House, based at the University of Sheffield.
+  
+  Mr Hygate calls his biofuel a 'fossil-free fuel' because, unlike conventional jet fuel, it does not come from crude oil. 
+  
+  So even though CO2 is still released when the fuel is burned, that carbon was originally trapped by the plants that go into the food we eat. 
+  
+  This means that biofuels contribute a smaller amount of net carbon emissions.
+   
+  quote-Of course energy would be used (in production), but when looking at the fuel's life cycle, a 90% saving is mind-blowing,-end quote Mr Hygate told the BBC.
+  
+  Poo, unlike the grains and plant oils used for other biofuels, is naturally abundant and is the one form of waste humans cannot stop producing. 
+  
+  Every day in the UK, the sewage system collects 11 billion litres of waste water which has to be treated at about 9,000 sewage treatment works. 
+  
+  However, the UK produces more sewage than its infrastructure can handle leading to millions of tonnes being dumped into rivers and the sea.
+   
+  Mr Hygate told MailOnline that processing sewage into fuel is a good alternative to other disposal methods.
+  
+  quote-Human waste is handled differently in different parts of the world, but no matter where it occurs it is a problematic and polluting waste with very few disposal routes,-end quote says Mr Hygate.
+  
+  quote-By using it as a feedstock to create SAF [sustainable aviation fuel] we're helping to clean up at both ends of the process.
+  
+  Lack of feedstock availability is a pressure keenly felt throughout the sustainable fuels industry, but sewage is a waste material that will realistically never run out.-end quote
+  
+  Firefly estimates that each person produces enough sewage each year to produce between four and five litres of jet fuel.
+  
+  To fly a passenger jet from London to New York - an eight-hour flight - would take the yearly sewage of approximately 10,000 people.
+  
+  That means if the waste of the entire UK population were converted into biofuel, this would supply about five per cent of the country's demand for aviation fuel.
+  
+  That might not seem like a huge amount, but Mr Hygate remains optimistic.
+  
+  quote-That's pretty exciting. There's a 10 per cent sustainable aviation fuel requirement, that's a legal mandate. And we could meet half of that with poo,-end quote he said. 
+  
+  However, Firefly Green Fuels says it has been in conversations with officials in Mumbai who believe they could power 80 per cent of flights from their international airport using jet fuel from sewage. 
+  
+  Mr Hygate told MailOnline they could not provide a definitive price for the new fuel but says that 'current indications are that the cost of our fuel should be competitive with other routes to SAF.
+  
+  quote-What nobody wants to see is the transition to SAF leading to a huge cost impact on passengers. Thankfully we don't foresee this happening as robust incentives and supports are in place.-end quote
+  
+  As countries and corporations alike look to reduce their carbon footprint, aviation has remained stubbornly difficult to clean up. 
+  
+  Modern aircraft require huge amounts of fuel to produce the energy for international flights.
+  
+  A plane like the Boeing 747 uses about 150,000 litres of fuel during a ten-hour flight. 
+  
+  Earlier this year, Virgin Atlantic completed the first ever transatlantic flight powered entirely by sustainable aviation fuel.
+  
+  The Boeing 787 used 70 tonnes of fuel made from waste oils and animal fats to travel from London to New York. 
+  
+  However, this was a one-off event and there are currently no plans to replace fossil fuels in flight. 
+  
+  There are also attempts to replace fossil fuels entirely by moving towards electric planes. 
+  
+  In 2022, the world's first electric passenger plane reached 3,500 ft for the first time.
+
+Okay, so let's unpack this a bit...

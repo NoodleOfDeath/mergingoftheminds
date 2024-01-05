@@ -8,7 +8,7 @@ Each deep dive episode will start with an editorial read followed by an analysis
 
 Today we're diving headfirst into Hundai's revolutionary Uni-Wheel technology—a game-changer that could rewrite the script for everything from your daily commute to the moon buggy of tomorrow.
 
-Hundai released an official video on their YouTube channel on November 27st, 2023, titled "The world's first drive system concept | Universal Wheel Drive System". Ars technica reporter Jonathan Gitlin published the following on December 1st, 2023:
+Hundai released an official video on their YouTube channel on November 27st, 2023, titled "The world's first drive system concept | Universal Wheel Drive System". Now if you're not super car savvy, the following article I am about to read is a bit heavy in jargon, but I will try to summarize the concepts in less mechanical engineering terms afterwards. Ars technica reporter Jonathan Gitlin published the following on December 1st, 2023:
 
   We like weird new engineering ideas here at Ars, and today we have a particularly interesting one in the realm of electric cars. It's called the Uni Wheel, and it has been designed by Hundai and Kia as a way to revolutionize the layout of an EV powertrain to more efficiently use space. In fact, the automakers say it's not just for cars—the new drive system works with wheel sizes as small as four inches to as large as 25 inches.
 
@@ -28,7 +28,7 @@ Hundai released an official video on their YouTube channel on November 27st, 202
 
 So before we peel the rubber off this innovation, let's rewind a bit.
 
-Imagine a paradigm shift as a grand cosmic do-over, like that scene in \"Inception\" where dreams unfold on impossible staircases.
+Imagine a paradigm shift as a grand cosmic do-over, like that scene in Inception where dreams unfold on impossible staircases.
 
 It's a fundamental change in the way we view something, a mind-bending leap that transforms the familiar into the fantastical. And that's exactly what Hundai's aiming for with their Uni-Wheel.
 
@@ -68,15 +68,15 @@ Now, I'm not saying we'll all be zipping around in flying Uni-Wheel spheres tomo
 
 This isn't just about a fancy new wheel, it's about reimagining the possibilities of what vehicles can be, shaping the future of transportation not just for us, but for generations to come.
 
-Okay, friends, so let's crank up the zoom lens and see how this Uni-Wheel revolution might play out in different corners and industries of the world.
+Okay, so let's crank up the zoom lens and see how this Uni-Wheel revolution might play out in different corners and industries of the world.
 
 First stop: Cityscapes. Imagine nimble, modular Uni-Wheel taxis effortlessly weaving through rush hour, squeezing into tight parking like Tetris masters.
 
 Think Uber meets Transformers, all while slashing emissions and noise pollution. Talk about a breath of fresh air for urban living!
 
-Next, let's shift gears to rural areas. Picture rugged 4x4s with independent Uni-Wheel magic conquering off-road terrain like never before. Farmers? Rejoice! Uni-Wheel-powered tractors could navigate slopes and tight spaces with surgical precision, revolutionizing agriculture.
+Next, let's shift gears to rural areas. Picture rugged 4x4s with independent Uni-Wheel magic conquering off-road terrain like never before. Farmers? Definitely useful. Uni-Wheel-powered tractors could navigate slopes and tight spaces with surgical precision, revolutionizing agriculture.
 
-Now, buckle up for a global spin. Developing countries with limited infrastructure? Uni-Wheel-powered rickshaws and mini-vehicles could offer affordable, accessible transportation, bridging the gap and boosting economies. And let's not forget about sustainability. With their reduced energy consumption and cleaner operations, Uni-Wheels could be a game-changer for the fight against climate change.
+Now, for a global spin. Developing countries with limited infrastructure? Uni-Wheel-powered rickshaws and mini-vehicles could offer affordable, accessible transportation, bridging the gap and boosting economies. And let's not forget about sustainability. With their reduced energy consumption and cleaner operations, Uni-Wheels could be a game-changer for the fight against climate change.
 
 But hold on, what about the job market? Won't this fancy tech put mechanics out of a job? Not necessarily! Think of it as evolution, not extinction. 
 
