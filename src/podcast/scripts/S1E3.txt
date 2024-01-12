@@ -1,0 +1,111 @@
+Welcome to Merging of the Minds, the podcast that explores bleeding-edge technology and the subtle yet significant impacts it may have on your life.
+
+I am your host Tom, and each deep dive episode will start with an editorial read followed by my own analysis and exploration of how the technology may slowly but surely find its way into our every day.
+
+This episode will be about how the Internet of Things (IoT) is evolving and who the frontrunner of the next generation of IoT will be: Iridium Communications.
+
+For those who don't know, the Internet of Things is a term that has been around for a while now. 
+
+It refers to the idea that everything around us will be connected to the internet. 
+
+This includes everything from your refrigerator to your car to your toaster. 
+
+The idea is that these devices will be able to communicate with each other and with us, making our lives easier and more efficient.
+
+Now who is Iridium Communications?
+
+Iridium Communications is a company that provides satellite communications services, that was established in 1987 and launched the first constellation-based mobile satellite system in 1998.
+
+I will dive more into the history of Iridium Communications in a bit, but first let's talk about what they are doing now.
+
+In an article by Ray Sharma of the The Fast Mode published just yesterday on January 11th, 2023:
+
+  Iridium Communications, a leading provider of global voice and data satellite communications, announced Project Stardust, the evolution of its direct-to-device (D2D) strategy with 3GPP 5G standards-based Narrowband-Internet of Things (NB-IoT) Non-Terrestrial Network (NB-NTN) service development. 
+
+  As a new standards-based solution, it will be deployed on Iridium’s existing satellite network giving the company a unique ability to offer both high-quality proprietary and standardized D2D and IoT services to its customers. 
+  
+  Earth orbiting (LEO) satellites offers a special opportunity to smartphone companies, OEMs, chipmakers, mobile network operators (MNO) and related IoT developers to have their requirements woven into the fabric of the Iridium® network. Iridium is already collaborating directly with several of these companies.
+
+  Iridium is designing its initial NB-IoT offering to support 5G NTN messaging and SOS capabilities for smartphones, tablets, cars, and related consumer applications. 
+  
+  Adopting the service will enable device manufacturers to add a satellite connection to standardized devices, take advantage of existing, globally allocated and coordinated Iridium spectrum, and provide a superior low-latency LEO user experience. 
+  
+  The Iridium network supports approximately 1,300 SOS and emergency (911 or equivalent) incidents per year, around the world and has readily available systems, processes, and partners to implement this capability for new devices.
+
+  Iridium understands the market need for its customers to develop and certify products quickly. 
+  
+  Applying our established onboarding processes, chipmakers and NB-IoT developers can join Iridium’s ecosystem of about 500 partners, and choose a proprietary, standards-based, or dual-solution integration approach for added network redundancy. 
+  
+  MNOs will have the opportunity to be a one-stop shop for ubiquitous coverage and off-grid use cases, with unmatched industry reliability.
+  
+  Iridium partners are supported by a 24/7 customer support, back office, billing, and provisioning system, all ready to support the new service upon launch.
+
+  The Iridium satellite constellation’s fully crosslinked, LEO architecture and global L-band spectrum provides a competitive service advantage versus other LEO and geostationary satellite networks.
+  
+  Certified to provide safety of life services by international regulatory bodies, the Iridium network has become the gold standard of reliability and continues to be the only network that provides connectivity everywhere on Earth. 
+  
+  Operating in LEO, the Iridium constellation does not suffer from the same line-of-sight limitations, significant power requirements or outages that can affect entire regions from a single satellite as faced by geostationary systems.
+
+  The recognized leader in satellite IoT and personal communications, Iridium has more than two decades of experience and an unmatched partner ecosystem supporting more than 2.2 million users around the world. 
+  
+  As of the third quarter of 2023, Iridium subscribers have grown at a 15% CAGR over the last five years, and the company serves approximately 1.7 million IoT customers today, including about 900,000 personal trackers and satellite messengers for consumer, enterprise, and government applications. 
+  
+  Known for its reliability, coverage, and low power requirements, the Iridium network is an ideal fit for NB-IoT NTN service.
+
+  The company is currently working with several D2D and IoT-focused companies to understand and incorporate their use cases, requirements, and end-user needs into its planned service. 
+  
+  The company anticipates testing to begin in 2025, with service in 2026.
+
+Okay so what is the take away from this article?
+
+Project Stardust is a new service that will connect directly to your phone and devices, even in remote areas using 5G standards but instead of using cell towers, it uses satellites orbiting Earth.
+
+Why is this super cool? Well because the satellites are orbiting Earth, this service will be available everywhere on the planet, even in remote areas where there are no cell towers.
+
+I also imagine that interruption when switching between satellites will be minimal, if not non-existent, unlike when switching between cell towers.
+
+But the big question is, what will this cost?
+
+Iridium Communications has not released any pricing information yet, but I imagine it will be competitive with other satellite internet providers such as Starlink, which currently charges $120 per month for unlimited data at 100 Mbps download speeds.
+
+Also, in my personal opinion, the thing that makes this service more appealing than Starlink is the 5G compatibility, which means you will not need to buy equipment nor modify your devices in any way to use it. Just subscribe and you're good to go. 
+
+I'm going to bet roaming charges will be a thing of the past with this service as well unless you are in a country with regulations that complicates things.
+
+The service is expected to be available in 2026, so we will have to wait and see what the pricing and business model will be, and this is all assuming the things go according to plan.
+
+Now let's talk about the history of Iridium Communications.
+
+Iridium Communications was founded in 1987 by Motorola, Inc. and was originally called Motorola Satellite Communications, Inc.
+
+In 1998, Iridium Communications launched the first constellation-based mobile satellite system, which was called Iridium with 66 satellites in low Earth orbit and Al Gore was the first person to make a call using the system to Alexander Graham Bell's great-grandson.
+
+It was a symbolic handshake across time, a promise whispered across the cosmos: no corner of Earth would ever be truly alone again.
+
+This might have seemed like a major milestone, perhaps the ChatGPT of the late 90s, butthe company was unable to attract enough customers to make the service profitable.
+
+In December 2000, the US government stepped in to save Iridium by providing $72 million in exchange for a two-year contract and also approved the fire sale of the company from US bankruptcy court for only $25 million.
+
+By March 2001, Iridium Communications filed for bankruptcy protection that erased a whopping $4 billion in debt.
+
+The service was rebooted under new ownership in 2001 and has been profitable since 2005.
+
+Since 2010, Iridium has worked closely with SpaceX to launch the satellites into orbit using the Falcon 9 rocket, which marks an interesting partnership between two companies that are both trying to disrupt the satellite industry.
+
+In 2019, Iridium Communications completed the launch of its second-generation constellation consisting of 66 satellites called Iridium NEXT.
+
+The new satellites are designed to provide higher data speeds and lower latency than the original Iridium constellation.
+
+Each satellite can support up to 1,100 concurrent phone calls at about 2.4 megabits per second and weighing about 680 kilograms, or 1,500 lbs. 
+
+Iridium regularly launches new satellites to replace older ones that have reached the end of their operational life which is about 8 years.
+
+The cost of launching a single satellite is averages about $60 million, which is a lot of money, but it is a lot cheaper than the $1.5 billion it cost to build the original constellation.
+
+In conclusion, Iridium Communications is a company that has been around for a while and has had its ups and downs, but it seems like they are on the right track now with Project Stardust.
+
+I am excited to see what the future holds for this company and how it will impact our lives in the future.
+
+I hope you enjoyed this episode of Merging of the Minds, and if you did, please subscribe to the podcast and leave a review on Apple Podcasts, Spotify, or wherever you listen to podcasts.
+
+As always, thank you for listening and I will see you next time. Peace!

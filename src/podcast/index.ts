@@ -74,14 +74,14 @@ export async function generateAndMerge(text: string | string[], {
   if (!fs.existsSync(projectPath)) {
     fs.mkdirSync(projectPath, { recursive: true });
   }
-  
+
   if (diff) {
     const lines = await execSync(`git diff **/*.txt | grep '^+\\w'`).toString()
       .split('\n')
       .map((l) => l.trim()
-         .replace(/^\+/, '')
-         .substring(0, Math.min(l.length, 50))
-         .replace(/[\+\?\[\]\{\}\(\)\|\-\^]/g, ($0) => `\\${$0}`))
+        .replace(/^\+/, '')
+        .substring(0, Math.min(l.length, 50))
+        .replace(/[\+\?\[\]\{\}\(\)\|\-\^]/g, ($0) => `\\${$0}`))
       .filter(Boolean)
       .map((l) => `^\\s*${l}`);
     pattern = lines;
@@ -92,7 +92,7 @@ export async function generateAndMerge(text: string | string[], {
   const regex = new RegExp(Array.isArray(pattern) ? pattern.join('|') : pattern, 'i');
   const matches = sentences.map((text, i) => regex.test(text) ? i : null).filter((i) => i !== null);
   indexes = Array.from(new Set(matches.length > 0 ? [...matches, ...(indexes ?? [])] : (indexes || sentences.map((_, i) => i))));
-  
+
   for (const i of indexes) {
     const sentence = sentences[i];
     if (!overwrite && fs.existsSync(filenames[i])) {
@@ -110,7 +110,7 @@ export async function generateAndMerge(text: string | string[], {
   };
 
   const editor = new AudioEditingService();
-  await editor.merge({ outputPath: p.join(projectPath, outputName) }, ...filenames);
+  await editor.merge({ outputPath: p.join(projectPath, outputName) }, ...[p.resolve('./clips/IntroShort.wav'), ...filenames, p.resolve('./clips/IntroShort.wav')]);
 
 }
 
