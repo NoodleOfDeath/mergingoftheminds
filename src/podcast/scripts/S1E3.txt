@@ -1,8 +1,8 @@
 Welcome to Merging of the Minds, the podcast that explores bleeding-edge technology and the subtle yet significant impacts it may have on your life.
 
-I am your host Tom, and each deep dive episode will start with an editorial read followed by my own analysis and exploration of how the technology may slowly but surely find its way into our every day.
+I am your host Tom. Each deep dive episode will start with an editorial read followed by my own analysis and exploration of how the technology may slowly but surely find its way into our every day.
 
-This episode will be about how the Internet of Things (IoT) is evolving and who the frontrunner of the next generation of IoT will be: Iridium Communications.
+This episode will be about how the Internet of Things (IoT) is evolving and who the frontrunner of the next generation of IoT will be - Iridium Communications.
 
 For those who don't know, the Internet of Things is a term that has been around for a while now. 
 
