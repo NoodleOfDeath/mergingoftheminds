@@ -18,7 +18,7 @@ Iridium Communications is a company that provides satellite communications servi
 
 I will dive more into the history of Iridium Communications in a bit, but first let's talk about what they are doing now.
 
-In an article by Ray Sharma of the The Fast Mode published just yesterday on January 11th, 2023:
+In an article by Ray Sharma of the Fast Mode published just yesterday on January 11th, 2023:
 
   Iridium Communications, a leading provider of global voice and data satellite communications, announced Project Stardust, the evolution of its direct-to-device (D2D) strategy with 3GPP 5G standards-based Narrowband-Internet of Things (NB-IoT) Non-Terrestrial Network (NB-NTN) service development. 
 
