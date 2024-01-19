@@ -66,7 +66,7 @@ I also imagine that interruption when switching between satellites will be minim
 
 But the big question is, what will this cost?
 
-Iridium Communications has not released any pricing information yet, but I imagine it will be competitive with other satellite internet providers such as Starlink, which currently charges $120 per month for unlimited data at 100 Mbps download speeds.
+Iridium Communications has not released any pricing information yet, but I imagine it will be competitive with other satellite internet providers such as Starlink, which currently charges 120 dollars per month for unlimited data at 100 Mbps download speeds.
 
 Also, in my personal opinion, the thing that makes this service more appealing than Starlink is the 5G compatibility, which means you will not need to buy equipment nor modify your devices in any way to use it. Just subscribe and you're good to go. 
 
